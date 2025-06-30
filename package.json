@@ -1,5 +1,5 @@
 {
-  "name": "PaymentApp",
+  "name": "MoneyMonk",
   "private": true,
   "scripts": {
     "build": "turbo run build",
